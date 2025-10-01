@@ -7,4 +7,5 @@ For the second exhibit, I implemented the accelerometer as a small interactive g
 For the third exhibit, I wanted to use location services to provide specific information about the area that the user lives in from the prehistoric era. I also added in a small exhibit about the evolution of the human species.
 
 Here is the video playthrough:
+
 [![Watch the video](https://img.youtube.com/vi/Q7DWKETptRs/0.jpg)](https://youtu.be/Q7DWKETptRs)
