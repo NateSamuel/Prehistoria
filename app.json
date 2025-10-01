@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Prehistorica",
+    "slug": "Prehistorica",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nate.bentley.Prehistorica",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.nate.bentley.Prehistorica"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c7b6ba68-15ef-49a7-aadf-acb46128728e"
+      }
+    },
+    "runtimeVersion": "exposdk:49.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/c7b6ba68-15ef-49a7-aadf-acb46128728e"
+    }
+  }
+}
