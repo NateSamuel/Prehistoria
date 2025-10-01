@@ -1,0 +1,44 @@
+[
+  {
+    "type": "sauropod",
+    "sounds": "low pitch guttural grumbles",
+    "teeth": "semi-conical and curved with a pointed end",
+    "food": "equisetum (horse tails)",
+    "skin": "thick, wrinkled skin"
+  },
+  {
+    "type": "large theropod",
+    "sounds": "lower pitch grunts and hisses",
+    "teeth": "sharp, serrated teeth for slicing meat",
+    "food": "large herbivorous dinosaurs",
+    "skin": "covered in small, bumpy scales, some may have had feathers"
+  },
+  {
+    "type": "ceratopsian",
+    "sounds": "low-pitched, resonant calls at a 'd' frequency",
+    "teeth": "tooth batteries with high-angled wear surfaces for grinding plants",
+    "food": "fibrous palm and cycad fronds, fleshy fruits",
+    "skin": "small, scaly skin with some evidence of quill-like structures"
+  },
+  {
+    "type": "euornithopod",
+    "sounds": "low-frequency calls",
+    "teeth": "beak-like jaw structure with flat, tightly packed teeth",
+    "food": "ferns, cycads, and conifers",
+    "skin": "covered in scales, some with feathers"
+  },
+  {
+    "type": "small theropod",
+    "sounds": "high-pitched grunts and hisses",
+    "teeth": "sharp, serrated teeth for catching small prey",
+    "food": "small vertebrates, insects, and carrion",
+    "skin": "feathers may have been present, at least in younger individuals"
+  },
+  {
+    "type": "armoured dinosaur",
+    "sounds": "bird-like vocalizations",
+    "teeth": "small, triangular teeth for cutting plants",
+    "food": "ferns, cycads, and angiosperms",
+    "skin": "bony osteoderm armor covering much of the body"
+  }
+]

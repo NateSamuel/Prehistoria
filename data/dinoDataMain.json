@@ -1,0 +1,3092 @@
+[
+ {
+   "name": "aardonyx",
+   "diet": "herbivorous",
+   "lived_in": "South Africa",
+   "type": "sauropod",
+   "arrival": 199,
+   "extinction": 189,
+   "era": "Early Jurassic",
+   "length": 8
+ },
+ {
+   "name": "abelisaurus",
+   "diet": "carnivorous",
+   "lived_in": "Argentina",
+   "type": "large theropod",
+   "arrival": 74,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "achelousaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "ceratopsian",
+   "arrival": 83,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "achillobator",
+   "diet": "carnivorous",
+   "lived_in": "Mongolia",
+   "type": "large theropod",
+   "arrival": 99,
+   "extinction": 84,
+   "era": "Late Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "acrocanthosaurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "large theropod",
+   "arrival": 115,
+   "extinction": 105,
+   "era": "Early Cretaceous",
+   "length": 12
+ },
+ {
+   "name": "aegyptosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Egypt",
+   "type": "sauropod",
+   "arrival": 98,
+   "extinction": 93,
+   "era": "Late Cretaceous",
+   "length": 15
+ },
+ {
+   "name": "afrovenator",
+   "diet": "carnivorous",
+   "lived_in": "Niger",
+   "type": "large theropod",
+   "arrival": 132,
+   "extinction": 121,
+   "era": "Early Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "agilisaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "euornithopod",
+   "arrival": 169,
+   "extinction": 159,
+   "era": "Late Jurassic",
+   "length": 1.5
+ },
+ {
+   "name": "alamosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "sauropod",
+   "arrival": 70,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 21
+ },
+ {
+   "name": "albertaceratops",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "ceratopsian",
+   "arrival": 80,
+   "extinction": 75,
+   "era": "Late Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "albertosaurus",
+   "diet": "carnivorous",
+   "lived_in": "Canada",
+   "type": "large theropod",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "alectrosaurus",
+   "diet": "carnivorous",
+   "lived_in": "Mongolia",
+   "type": "large theropod",
+   "arrival": 90,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "alioramus",
+   "diet": "carnivorous",
+   "lived_in": "Mongolia",
+   "type": "large theropod",
+   "arrival": 71,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "allosaurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "large theropod",
+   "arrival": 156,
+   "extinction": 144,
+   "era": "Late Jurassic",
+   "length": 12
+ },
+ {
+   "name": "alvarezsaurus",
+   "diet": "carnivorous",
+   "lived_in": "Argentina",
+   "type": "small theropod",
+   "arrival": 89,
+   "extinction": 85,
+   "era": "Late Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "amargasaurus",
+   "diet": "herbivorous",
+   "lived_in": "Argentina",
+   "type": "sauropod",
+   "arrival": 132,
+   "extinction": 127,
+   "era": "Early Cretaceous",
+   "length": 12
+ },
+ {
+   "name": "ammosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "sauropod",
+   "arrival": 195,
+   "extinction": 180,
+   "era": "Early Jurassic",
+   "length": 5
+ },
+ {
+   "name": "ampelosaurus",
+   "diet": "herbivorous",
+   "lived_in": "France",
+   "type": "sauropod",
+   "arrival": 71,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 15
+ },
+ {
+   "name": "amygdalodon",
+   "diet": "herbivorous",
+   "lived_in": "Argentina",
+   "type": "sauropod",
+   "arrival": 177,
+   "extinction": 169,
+   "era": "Mid Jurassic",
+   "length": 15
+ },
+ {
+   "name": "anchiceratops",
+   "diet": "herbivorous",
+   "lived_in": "Canada",
+   "type": "ceratopsian",
+   "arrival": 74,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "anchisaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "sauropod",
+   "arrival": 190,
+   "extinction": 190,
+   "era": "Early Jurassic",
+   "length": 2
+ },
+ {
+   "name": "ankylosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "armoured dinosaur",
+   "arrival": 74,
+   "extinction": 67,
+   "era": "Late Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "anserimimus",
+   "diet": "carnivorous",
+   "lived_in": "Mongolia",
+   "type": "large theropod",
+   "arrival": 84,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 3.5
+ },
+ {
+   "name": "antarctosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Uruguay",
+   "type": "sauropod",
+   "arrival": 84,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 18
+ },
+ {
+   "name": "apatosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "sauropod",
+   "arrival": 154,
+   "extinction": 145,
+   "era": "Late Jurassic",
+   "length": 21
+ },
+ {
+   "name": "aragosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Spain",
+   "type": "sauropod",
+   "arrival": 132,
+   "extinction": 121,
+   "era": "Early Cretaceous",
+   "length": 18
+ },
+ {
+   "name": "aralosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Kazakhstan",
+   "type": "euornithopod",
+   "arrival": 94,
+   "extinction": 84,
+   "era": "Late Cretaceous",
+   "length": 8
+ },
+ {
+   "name": "archaeoceratops",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "ceratopsian",
+   "arrival": 121,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 1.3
+ },
+ {
+   "name": "archaeopteryx",
+   "diet": "carnivorous",
+   "lived_in": "Germany",
+   "type": "small theropod",
+   "arrival": 147,
+   "extinction": 147,
+   "era": "Late Jurassic",
+   "length": 0.5
+ },
+ {
+   "name": "archaeornithomimus",
+   "diet": "carnivorous",
+   "lived_in": "Uzbekistan",
+   "type": "small theropod",
+   "arrival": 95,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 3.5
+ },
+ {
+   "name": "argentinosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Argentina",
+   "type": "sauropod",
+   "arrival": 90,
+   "extinction": 90,
+   "era": "Late Cretaceous",
+   "length": 35
+ },
+ {
+   "name": "arrhinoceratops",
+   "diet": "herbivorous",
+   "lived_in": "Canada",
+   "type": "ceratopsian",
+   "arrival": 72,
+   "extinction": 67,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "atlascopcosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Australia",
+   "type": "euornithopod",
+   "arrival": 121,
+   "extinction": 97,
+   "era": "Early Cretaceous",
+   "length": 3
+ },
+ {
+   "name": "aucasaurus",
+   "diet": "carnivorous",
+   "lived_in": "Argentina",
+   "type": "large theropod",
+   "arrival": 84,
+   "extinction": 71,
+   "era": "Late Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "austrosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Australia",
+   "type": "sauropod",
+   "arrival": 112,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 15
+ },
+ {
+   "name": "avaceratops",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "ceratopsian",
+   "arrival": 80,
+   "extinction": 75,
+   "era": "Late Cretaceous",
+   "length": 2.3
+ },
+ {
+   "name": "avimimus",
+   "diet": "omnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 80,
+   "extinction": 75,
+   "era": "Late Cretaceous",
+   "length": 1.5
+ },
+ {
+   "name": "bactrosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "euornithopod",
+   "arrival": 84,
+   "extinction": 71,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "bagaceratops",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "ceratopsian",
+   "arrival": 85,
+   "extinction": 80,
+   "era": "Late Cretaceous",
+   "length": 1
+ },
+ {
+   "name": "bambiraptor",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "small theropod",
+   "arrival": 84,
+   "extinction": 71,
+   "era": "Late Cretaceous",
+   "length": 1
+ },
+ {
+   "name": "barapasaurus",
+   "diet": "herbivorous",
+   "lived_in": "India",
+   "type": "sauropod",
+   "arrival": 185,
+   "extinction": 170,
+   "era": "Early Jurassic",
+   "length": 14
+ },
+ {
+   "name": "barosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "sauropod",
+   "arrival": 155,
+   "extinction": 145,
+   "era": "Late Jurassic",
+   "length": 24
+ },
+ {
+   "name": "baryonyx",
+   "diet": "carnivorous",
+   "lived_in": "United Kingdom",
+   "type": "large theropod",
+   "arrival": 125,
+   "extinction": 125,
+   "era": "Early Cretaceous",
+   "length": 10
+ },
+ {
+   "name": "becklespinax",
+   "diet": "carnivorous",
+   "lived_in": "United Kingdom",
+   "type": "large theropod",
+   "arrival": 142,
+   "extinction": 132,
+   "era": "Early Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "beipiaosaurus",
+   "diet": "omnivorous",
+   "lived_in": "China",
+   "type": "small theropod",
+   "arrival": 127,
+   "extinction": 121,
+   "era": "Early Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "bellusaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "sauropod",
+   "arrival": 180,
+   "extinction": 159,
+   "era": "Mid Jurassic",
+   "length": 5
+ },
+ {
+   "name": "borogovia",
+   "diet": "carnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 84,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 1.5
+ },
+ {
+   "name": "brachiosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "sauropod",
+   "arrival": 155,
+   "extinction": 140,
+   "era": "Late Jurassic",
+   "length": 30
+ },
+ {
+   "name": "brachylophosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 89,
+   "extinction": 88,
+   "era": "Late Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "brachytrachelopan",
+   "diet": "herbivorous",
+   "lived_in": "Argentina",
+   "type": "sauropod",
+   "arrival": 150,
+   "extinction": 150,
+   "era": "Mid Jurassic",
+   "length": 10
+ },
+ {
+   "name": "buitreraptor",
+   "diet": "carnivorous",
+   "lived_in": "Argentina",
+   "type": "small theropod",
+   "arrival": 99,
+   "extinction": 90,
+   "era": "Late Cretaceous",
+   "length": 1.3
+ },
+ {
+   "name": "camarasaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "sauropod",
+   "arrival": 150,
+   "extinction": 140,
+   "era": "Late Jurassic",
+   "length": 23
+ },
+ {
+   "name": "camptosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 155,
+   "extinction": 145,
+   "era": "Late Jurassic",
+   "length": 5
+ },
+ {
+   "name": "carcharodontosaurus",
+   "diet": "carnivorous",
+   "lived_in": "North Africa",
+   "type": "large theropod",
+   "arrival": 98,
+   "extinction": 94,
+   "era": "Late Cretaceous",
+   "length": 15
+ },
+ {
+   "name": "carnotaurus",
+   "diet": "carnivorous",
+   "lived_in": "Argentina",
+   "type": "large theropod",
+   "arrival": 70,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 7.6
+ },
+ {
+   "name": "caudipteryx",
+   "diet": "omnivorous",
+   "lived_in": "China",
+   "type": "small theropod",
+   "arrival": 125,
+   "extinction": 122,
+   "era": "Early Cretaceous",
+   "length": 1
+ },
+ {
+   "name": "cedarpelta",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "armoured dinosaur",
+   "arrival": 142,
+   "extinction": 127,
+   "era": "Early Cretaceous",
+   "length": 10
+ },
+ {
+   "name": "centrosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Canada",
+   "type": "ceratopsian",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "ceratosaurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "large theropod",
+   "arrival": 153,
+   "extinction": 148,
+   "era": "Late Jurassic",
+   "length": 6
+ },
+ {
+   "name": "cetiosauriscus",
+   "diet": "herbivorous",
+   "lived_in": "United Kingdom",
+   "type": "sauropod",
+   "arrival": 175,
+   "extinction": 160,
+   "era": "Mid Jurassic",
+   "length": 15
+ },
+ {
+   "name": "cetiosaurus",
+   "diet": "herbivorous",
+   "lived_in": "United Kingdom",
+   "type": "sauropod",
+   "arrival": 170,
+   "extinction": 160,
+   "era": "Mid Jurassic",
+   "length": 18
+ },
+ {
+   "name": "chaoyangsaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "ceratopsian",
+   "arrival": 152,
+   "extinction": 145,
+   "era": "Late Jurassic",
+   "length": 1.1
+ },
+ {
+   "name": "chasmosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Canada",
+   "type": "ceratopsian",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "chindesaurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "small theropod",
+   "arrival": 227,
+   "extinction": 210,
+   "era": "Late Triassic",
+   "length": 4
+ },
+ {
+   "name": "chinshakiangosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "sauropod",
+   "arrival": 159,
+   "extinction": 142,
+   "era": "Late Jurassic",
+   "length": 11
+ },
+ {
+   "name": "chirostenotes",
+   "diet": "omnivorous",
+   "lived_in": "Canada",
+   "type": "small theropod",
+   "arrival": 79,
+   "extinction": 67,
+   "era": "Late Jurassic",
+   "length": 1.7
+ },
+ {
+   "name": "chubutisaurus",
+   "diet": "herbivorous",
+   "lived_in": "Argentina",
+   "type": "sauropod",
+   "arrival": 112,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 23
+ },
+ {
+   "name": "chungkingosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "armoured dinosaur",
+   "arrival": 159,
+   "extinction": 142,
+   "era": "Late Jurassic",
+   "length": 4
+ },
+ {
+   "name": "citipati",
+   "diet": "omnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 81,
+   "extinction": 75,
+   "era": "Late Cretaceous",
+   "length": 2.1
+ },
+ {
+   "name": "coelophysis",
+   "diet": "carnivorous",
+   "lived_in": "Zimbabwe",
+   "type": "small theropod",
+   "arrival": 225,
+   "extinction": 190,
+   "era": "Late Triassic",
+   "length": 2
+ },
+ {
+   "name": "coelurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "small theropod",
+   "arrival": 155,
+   "extinction": 145,
+   "era": "Late Jurassic",
+   "length": 1.8
+ },
+ {
+   "name": "coloradisaurus",
+   "diet": "omnivorous",
+   "lived_in": "Argentina",
+   "type": "sauropod",
+   "arrival": 221,
+   "extinction": 210,
+   "era": "Late Triassic",
+   "length": 4
+ },
+ {
+   "name": "compsognathus",
+   "diet": "carnivorous",
+   "lived_in": "Germany",
+   "type": "small theropod",
+   "arrival": 145,
+   "extinction": 140,
+   "era": "Late Jurassic",
+   "length": 0.65
+ },
+ {
+   "name": "conchoraptor",
+   "diet": "carnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 81,
+   "extinction": 76,
+   "era": "Late Cretaceous",
+   "length": 1.5
+ },
+ {
+   "name": "confuciusornis",
+   "diet": "carnivorous",
+   "lived_in": "China",
+   "type": "small theropod",
+   "arrival": 127,
+   "extinction": 121,
+   "era": "Early Cretaceous",
+   "length": 0.25
+ },
+ {
+   "name": "corythosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 10
+ },
+ {
+   "name": "cryolophosaurus",
+   "diet": "carnivorous",
+   "lived_in": "Antarctica",
+   "type": "large theropod",
+   "arrival": 170,
+   "extinction": 170,
+   "era": "Early Jurassic",
+   "length": 8
+ },
+ {
+   "name": "dacentrurus",
+   "diet": "herbivorous",
+   "lived_in": "United Kingdom",
+   "type": "armoured dinosaur",
+   "arrival": 154,
+   "extinction": 150,
+   "era": "Late Jurassic",
+   "length": 6
+ },
+ {
+   "name": "daspletosaurus",
+   "diet": "carnivorous",
+   "lived_in": "Canada",
+   "type": "large theropod",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "datousaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "sauropod",
+   "arrival": 170,
+   "extinction": 170,
+   "era": "Mid Jurassic",
+   "length": 15
+ },
+ {
+   "name": "deinocheirus",
+   "diet": "omnivorous",
+   "lived_in": "Mongolia",
+   "type": "large theropod",
+   "arrival": 70,
+   "extinction": 66,
+   "era": "Late Cretaceous",
+   "length": 10
+ },
+ {
+   "name": "deinonychus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "small theropod",
+   "arrival": 120,
+   "extinction": 110,
+   "era": "Early Cretaceous",
+   "length": 3
+ },
+ {
+   "name": "deltadromeus",
+   "diet": "carnivorous",
+   "lived_in": "Morocco",
+   "type": "large theropod",
+   "arrival": 99,
+   "extinction": 94,
+   "era": "Late Cretaceous",
+   "length": 8.1
+ },
+ {
+   "name": "dicraeosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Tanzania",
+   "type": "sauropod",
+   "arrival": 150,
+   "extinction": 135,
+   "era": "Late Jurassic",
+   "length": 20
+ },
+ {
+   "name": "dilophosaurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "large theropod",
+   "arrival": 190,
+   "extinction": 190,
+   "era": "Early Jurassic",
+   "length": 6
+ },
+ {
+   "name": "diplodocus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "sauropod",
+   "arrival": 155,
+   "extinction": 145,
+   "era": "Late Jurassic",
+   "length": 26
+ },
+ {
+   "name": "dromaeosaurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "small theropod",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 1.8
+ },
+ {
+   "name": "dromiceiomimus",
+   "diet": "omnivorous",
+   "lived_in": "Canada",
+   "type": "large theropod",
+   "arrival": 74,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 3.5
+ },
+ {
+   "name": "dryosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 155,
+   "extinction": 140,
+   "era": "Late Jurassic",
+   "length": 4
+ },
+ {
+   "name": "dryptosaurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "large theropod",
+   "arrival": 84,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 6.4
+ },
+ {
+   "name": "dubreuillosaurus",
+   "diet": "carnivorous",
+   "lived_in": "France",
+   "type": "large theropod",
+   "arrival": 169,
+   "extinction": 164,
+   "era": "Late Jurassic",
+   "length": 5
+ },
+ {
+   "name": "edmontonia",
+   "diet": "herbivorous",
+   "lived_in": "Canada",
+   "type": "armoured dinosaur",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 4
+ },
+ {
+   "name": "edmontosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Canada",
+   "type": "euornithopod",
+   "arrival": 76,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 13
+ },
+ {
+   "name": "einiosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "ceratopsian",
+   "arrival": 74,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "elaphrosaurus",
+   "diet": "carnivorous",
+   "lived_in": "Tanzania",
+   "type": "large theropod",
+   "arrival": 154,
+   "extinction": 151,
+   "era": "Late Jurassic",
+   "length": 6.2
+ },
+ {
+   "name": "emausaurus",
+   "diet": "herbivorous",
+   "lived_in": "Germany",
+   "type": "armoured dinosaur",
+   "arrival": 190,
+   "extinction": 180,
+   "era": "Mid Jurassic",
+   "length": 2
+ },
+ {
+   "name": "eolambia",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 99,
+   "extinction": 94,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "eoraptor",
+   "diet": "carnivorous",
+   "lived_in": "Argentina",
+   "type": "small theropod",
+   "arrival": 228,
+   "extinction": 228,
+   "era": "Late Triassic",
+   "length": 1
+ },
+ {
+   "name": "eotyrannus",
+   "diet": "carnivorous",
+   "lived_in": "United Kingdom",
+   "type": "large theropod",
+   "arrival": 127,
+   "extinction": 121,
+   "era": "Early Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "equijubus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "euornithopod",
+   "arrival": 127,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "erketu",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "sauropod",
+   "arrival": null,
+   "extinction": null,
+   "era": "Early Cretaceous",
+   "length": 15
+ },
+ {
+   "name": "erlikosaurus",
+   "diet": "omnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 99,
+   "extinction": 89,
+   "era": "Late Cretaceous",
+   "length": 3.4
+ },
+ {
+   "name": "euhelopus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "sauropod",
+   "arrival": 154,
+   "extinction": 142,
+   "era": "Late Jurassic",
+   "length": 10
+ },
+ {
+   "name": "euoplocephalus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "armoured dinosaur",
+   "arrival": 76,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "europasaurus",
+   "diet": "herbivorous",
+   "lived_in": "Germany",
+   "type": "sauropod",
+   "arrival": 154,
+   "extinction": 151,
+   "era": "Late Jurassic",
+   "length": 6.2
+ },
+ {
+   "name": "eustreptospondylus",
+   "diet": "carnivorous",
+   "lived_in": "United Kingdom",
+   "type": "large theropod",
+   "arrival": 165,
+   "extinction": 165,
+   "era": "Mid Jurassic",
+   "length": 7
+ },
+ {
+   "name": "fukuiraptor",
+   "diet": "carnivorous",
+   "lived_in": "Japan",
+   "type": "large theropod",
+   "arrival": 121,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 4.2
+ },
+ {
+   "name": "fukuisaurus",
+   "diet": "herbivorous",
+   "lived_in": "Japan",
+   "type": "euornithopod",
+   "arrival": 121,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 4.7
+ },
+ {
+   "name": "gallimimus",
+   "diet": "omnivorous",
+   "lived_in": "Mongolia",
+   "type": "large theropod",
+   "arrival": 74,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "gargoyleosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "armoured dinosaur",
+   "arrival": 154,
+   "extinction": 142,
+   "era": "Late Jurassic",
+   "length": 4
+ },
+ {
+   "name": "garudimimus",
+   "diet": "omnivorous",
+   "lived_in": "Mongolia",
+   "type": "large theropod",
+   "arrival": 99,
+   "extinction": 89,
+   "era": "Late Cretaceous",
+   "length": 4.7
+ },
+ {
+   "name": "gasosaurus",
+   "diet": "carnivorous",
+   "lived_in": "China",
+   "type": "small theropod",
+   "arrival": 170,
+   "extinction": 160,
+   "era": "Mid Jurassic",
+   "length": 4
+ },
+ {
+   "name": "gasparinisaura",
+   "diet": "herbivorous",
+   "lived_in": "Argentina",
+   "type": "euornithopod",
+   "arrival": 86,
+   "extinction": 71,
+   "era": "Late Cretaceous",
+   "length": 0.8
+ },
+ {
+   "name": "gastonia",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "armoured dinosaur",
+   "arrival": 142,
+   "extinction": 127,
+   "era": "Early Cretaceous",
+   "length": 4.6
+ },
+ {
+   "name": "giganotosaurus",
+   "diet": "carnivorous",
+   "lived_in": "Argentina",
+   "type": "large theropod",
+   "arrival": 112,
+   "extinction": 90,
+   "era": "Early Cretaceous",
+   "length": 12.5
+ },
+ {
+   "name": "gilmoreosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "euornithopod",
+   "arrival": 76,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "giraffatitan",
+   "diet": "herbivorous",
+   "lived_in": "Tanzania",
+   "type": "sauropod",
+   "arrival": 154,
+   "extinction": 142,
+   "era": "Late Jurassic",
+   "length": 23
+ },
+ {
+   "name": "gobisaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "armoured dinosaur",
+   "arrival": 121,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "gorgosaurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "large theropod",
+   "arrival": 80,
+   "extinction": 73,
+   "era": "Late Cretaceous",
+   "length": 8.6
+ },
+ {
+   "name": "goyocephale",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "large theropod",
+   "arrival": 81,
+   "extinction": 75,
+   "era": "Late Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "graciliceratops",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "ceratopsian",
+   "arrival": 99,
+   "extinction": 84,
+   "era": "Late Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "gryposaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 86,
+   "extinction": 71,
+   "era": "Late Cretaceous",
+   "length": 10
+ },
+ {
+   "name": "guaibasaurus",
+   "diet": "herbivorous",
+   "lived_in": "Brazil",
+   "type": "small theropod",
+   "arrival": 221,
+   "extinction": 210,
+   "era": "Late Triassic",
+   "length": 1.8
+ },
+ {
+   "name": "guanlong",
+   "diet": "carnivorous",
+   "lived_in": "China",
+   "type": "small theropod",
+   "arrival": 159,
+   "extinction": 154,
+   "era": "Late Jurassic",
+   "length": 3
+ },
+ {
+   "name": "hadrosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 78,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "hagryphus",
+   "diet": "omnivorous",
+   "lived_in": "USA",
+   "type": "small theropod",
+   "arrival": 83.5,
+   "extinction": 70.6,
+   "era": "Late Cretaceous",
+   "length": 3
+ },
+ {
+   "name": "haplocanthosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "sauropod",
+   "arrival": 154,
+   "extinction": 142,
+   "era": "Late Jurassic",
+   "length": 21.5
+ },
+ {
+   "name": "harpymimus",
+   "diet": "omnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 121,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "herrerasaurus",
+   "diet": "carnivorous",
+   "lived_in": "Argentina",
+   "type": "small theropod",
+   "arrival": 228,
+   "extinction": 228,
+   "era": "Late Triassic",
+   "length": 3
+ },
+ {
+   "name": "hesperosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "armoured dinosaur",
+   "arrival": 154,
+   "extinction": 142,
+   "era": "Late Jurassic",
+   "length": 6
+ },
+ {
+   "name": "heterodontosaurus",
+   "diet": "herbivorous",
+   "lived_in": "South Africa",
+   "type": "euornithopod",
+   "arrival": 205,
+   "extinction": 205,
+   "era": "Early Jurassic",
+   "length": 1.2
+ },
+ {
+   "name": "heyuannia",
+   "diet": "omnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 72,
+   "extinction": 68,
+   "era": "Late Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "homalocephale",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "euornithopod",
+   "arrival": 72,
+   "extinction": 68,
+   "era": "Late Cretaceous",
+   "length": 1.5
+ },
+ {
+   "name": "huayangosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "armoured dinosaur",
+   "arrival": 170,
+   "extinction": 160,
+   "era": "Mid Jurassic",
+   "length": 4.5
+ },
+ {
+   "name": "hylaeosaurus",
+   "diet": "herbivorous",
+   "lived_in": "United Kingdom",
+   "type": "armoured dinosaur",
+   "arrival": 150,
+   "extinction": 135,
+   "era": "Early Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "hypacrosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 70,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "hypsilophodon",
+   "diet": "herbivorous",
+   "lived_in": "United Kingdom",
+   "type": "euornithopod",
+   "arrival": 125,
+   "extinction": 125,
+   "era": "Early Cretaceous",
+   "length": 2.3
+ },
+ {
+   "name": "iguanodon",
+   "diet": "herbivorous",
+   "lived_in": "United Kingdom",
+   "type": "euornithopod",
+   "arrival": 140,
+   "extinction": 110,
+   "era": "Early Cretaceous",
+   "length": 10
+ },
+ {
+   "name": "indosuchus",
+   "diet": "carnivorous",
+   "lived_in": "India",
+   "type": "large theropod",
+   "arrival": 71,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "irritator",
+   "diet": "carnivorous",
+   "lived_in": "Brazil",
+   "type": "large theropod",
+   "arrival": 112,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 6.5
+ },
+ {
+   "name": "isisaurus",
+   "diet": "herbivorous",
+   "lived_in": "India",
+   "type": "sauropod",
+   "arrival": 71,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 18
+ },
+ {
+   "name": "janenschia",
+   "diet": "herbivorous",
+   "lived_in": "Tanzania",
+   "type": "sauropod",
+   "arrival": 154,
+   "extinction": 151,
+   "era": "Late Jurassic",
+   "length": 20
+ },
+ {
+   "name": "jaxartosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Kazakhstan",
+   "type": "euornithopod",
+   "arrival": 94,
+   "extinction": 84,
+   "era": "Late Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "jingshanosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "sauropod",
+   "arrival": 205,
+   "extinction": 190,
+   "era": "Early Jurassic",
+   "length": 5
+ },
+ {
+   "name": "jinzhousaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "euornithopod",
+   "arrival": 127,
+   "extinction": 121,
+   "era": "Early Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "jobaria",
+   "diet": "herbivorous",
+   "lived_in": "Niger",
+   "type": "sauropod",
+   "arrival": 132,
+   "extinction": 94,
+   "era": "Early Cretaceous",
+   "length": 21
+ },
+ {
+   "name": "juravenator",
+   "diet": "carnivorous",
+   "lived_in": "Germany",
+   "type": "small theropod",
+   "arrival": 154,
+   "extinction": 151,
+   "era": "Late Jurassic",
+   "length": 0.8
+ },
+ {
+   "name": "kentrosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Tanzania",
+   "type": "armoured dinosaur",
+   "arrival": 155,
+   "extinction": 150,
+   "era": "Late Jurassic",
+   "length": 5
+ },
+ {
+   "name": "khaan",
+   "diet": "omnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 81,
+   "extinction": 75,
+   "era": "Late Cretaceous",
+   "length": 1.8
+ },
+ {
+   "name": "kotasaurus",
+   "diet": "herbivorous",
+   "lived_in": "India",
+   "type": "sauropod",
+   "arrival": 205,
+   "extinction": 180,
+   "era": "Early Jurassic",
+   "length": 9
+ },
+ {
+   "name": "kritosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 78,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 8
+ },
+ {
+   "name": "lambeosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Canada",
+   "type": "euornithopod",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "lapparentosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Madagascar",
+   "type": "sauropod",
+   "arrival": 169,
+   "extinction": 164,
+   "era": "Mid Jurassic",
+   "length": 20
+ },
+ {
+   "name": "leaellynasaura",
+   "diet": "herbivorous",
+   "lived_in": "Australia",
+   "type": "euornithopod",
+   "arrival": 115,
+   "extinction": 110,
+   "era": "Early Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "leptoceratops",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "ceratopsian",
+   "arrival": 67,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 3
+ },
+ {
+   "name": "lesothosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Lesotho",
+   "type": "euornithopod",
+   "arrival": 213,
+   "extinction": 200,
+   "era": "Early Jurassic",
+   "length": 1
+ },
+ {
+   "name": "liaoceratops",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "ceratopsian",
+   "arrival": 127,
+   "extinction": 121,
+   "era": "Early Cretaceous",
+   "length": 0.5
+ },
+ {
+   "name": "ligabuesaurus",
+   "diet": "herbivorous",
+   "lived_in": "Argentina",
+   "type": "sauropod",
+   "arrival": 121,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 24
+ },
+ {
+   "name": "liliensternus",
+   "diet": "carnivorous",
+   "lived_in": "Germany",
+   "type": "small theropod",
+   "arrival": 205,
+   "extinction": 202,
+   "era": "Late Triassic",
+   "length": 5
+ },
+ {
+   "name": "lophorhothon",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 84,
+   "extinction": 71,
+   "era": "Late Cretaceous",
+   "length": 4.5
+ },
+ {
+   "name": "lophostropheus",
+   "diet": "carnivorous",
+   "lived_in": "France",
+   "type": "large theropod",
+   "arrival": 203,
+   "extinction": 196,
+   "era": "Early Jurassic",
+   "length": 6.2
+ },
+ {
+   "name": "lufengosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "sauropod",
+   "arrival": 200,
+   "extinction": 195,
+   "era": "Early Jurassic",
+   "length": 6
+ },
+ {
+   "name": "lurdusaurus",
+   "diet": "herbivorous",
+   "lived_in": "Niger",
+   "type": "euornithopod",
+   "arrival": 121,
+   "extinction": 112,
+   "era": "Early Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "lycorhinus",
+   "diet": "herbivorous",
+   "lived_in": "South Africa",
+   "type": "euornithopod",
+   "arrival": 205,
+   "extinction": 195,
+   "era": "Late Triassic",
+   "length": 1.2
+ },
+ {
+   "name": "magyarosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Romania",
+   "type": "sauropod",
+   "arrival": 71,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "maiasaura",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 80,
+   "extinction": 75,
+   "era": "Late Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "majungasaurus",
+   "diet": "carnivorous",
+   "lived_in": "Madagascar",
+   "type": "large theropod",
+   "arrival": 84,
+   "extinction": 71,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "malawisaurus",
+   "diet": "herbivorous",
+   "lived_in": "Malawi",
+   "type": "sauropod",
+   "arrival": 121,
+   "extinction": 112,
+   "era": "Early Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "mamenchisaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "sauropod",
+   "arrival": 155,
+   "extinction": 145,
+   "era": "Late Jurassic",
+   "length": 22
+ },
+ {
+   "name": "mapusaurus",
+   "diet": "carnivorous",
+   "lived_in": "Argentina",
+   "type": "large theropod",
+   "arrival": 99,
+   "extinction": 94,
+   "era": "Late Cretaceous",
+   "length": 13
+ },
+ {
+   "name": "marshosaurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "large theropod",
+   "arrival": 154,
+   "extinction": 142,
+   "era": "Late Jurassic",
+   "length": 6
+ },
+ {
+   "name": "masiakasaurus",
+   "diet": "carnivorous",
+   "lived_in": "Madagascar",
+   "type": "small theropod",
+   "arrival": 84,
+   "extinction": 71,
+   "era": "Late Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "massospondylus",
+   "diet": "omnivorous",
+   "lived_in": "Zimbabwe",
+   "type": "sauropod",
+   "arrival": 208,
+   "extinction": 204,
+   "era": "Early Jurassic",
+   "length": 4
+ },
+ {
+   "name": "maxakalisaurus",
+   "diet": "herbivorous",
+   "lived_in": "Brazil",
+   "type": "sauropod",
+   "arrival": 80,
+   "extinction": 80,
+   "era": "Late Cretaceous",
+   "length": 13
+ },
+ {
+   "name": "megalosaurus",
+   "diet": "carnivorous",
+   "lived_in": "United Kingdom",
+   "type": "large theropod",
+   "arrival": 170,
+   "extinction": 155,
+   "era": "Mid Jurassic",
+   "length": 9
+ },
+ {
+   "name": "melanorosaurus",
+   "diet": "omnivorous",
+   "lived_in": "South Africa",
+   "type": "sauropod",
+   "arrival": 227,
+   "extinction": 221,
+   "era": "Late Triassic",
+   "length": 12
+ },
+ {
+   "name": "metriacanthosaurus",
+   "diet": "carnivorous",
+   "lived_in": "United Kingdom",
+   "type": "large theropod",
+   "arrival": 159,
+   "extinction": 154,
+   "era": "Late Jurassic",
+   "length": 8.2
+ },
+ {
+   "name": "microceratus",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "ceratopsian",
+   "arrival": 86,
+   "extinction": 66,
+   "era": "Late Cretaceous",
+   "length": 0.5
+ },
+ {
+   "name": "micropachycephalosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "ceratopsian",
+   "arrival": 84,
+   "extinction": 71,
+   "era": "Late Cretaceous",
+   "length": 0.6
+ },
+ {
+   "name": "microraptor",
+   "diet": "carnivorous",
+   "lived_in": "China",
+   "type": "small theropod",
+   "arrival": 125,
+   "extinction": 122,
+   "era": "Early Cretaceous",
+   "length": 0.8
+ },
+ {
+   "name": "minmi",
+   "diet": "herbivorous",
+   "lived_in": "Australia",
+   "type": "armoured dinosaur",
+   "arrival": 121,
+   "extinction": 112,
+   "era": "Early Cretaceous",
+   "length": 3
+ },
+ {
+   "name": "monolophosaurus",
+   "diet": "carnivorous",
+   "lived_in": "China",
+   "type": "large theropod",
+   "arrival": 180,
+   "extinction": 159,
+   "era": "Mid Jurassic",
+   "length": 5.7
+ },
+ {
+   "name": "mononykus",
+   "diet": "unknown",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 81,
+   "extinction": 68,
+   "era": "Late Cretaceous",
+   "length": 1
+ },
+ {
+   "name": "mussaurus",
+   "diet": "herbivorous",
+   "lived_in": "Argentina",
+   "type": "sauropod",
+   "arrival": 221,
+   "extinction": 210,
+   "era": "Late Triassic",
+   "length": 3
+ },
+ {
+   "name": "muttaburrasaurus",
+   "diet": "herbivorous",
+   "lived_in": "Australia",
+   "type": "euornithopod",
+   "arrival": 110,
+   "extinction": 100,
+   "era": "Early Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "nanshiungosaurus",
+   "diet": "omnivorous",
+   "lived_in": "China",
+   "type": "large theropod",
+   "arrival": 84,
+   "extinction": 71,
+   "era": "Late Cretaceous",
+   "length": 4.4
+ },
+ {
+   "name": "nedoceratops",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "ceratopsian",
+   "arrival": 67,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "nemegtosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "sauropod",
+   "arrival": 72,
+   "extinction": 68,
+   "era": "Late Cretaceous",
+   "length": 13
+ },
+ {
+   "name": "neovenator",
+   "diet": "carnivorous",
+   "lived_in": "United Kingdom",
+   "type": "large theropod",
+   "arrival": 127,
+   "extinction": 121,
+   "era": "Early Cretaceous",
+   "length": 7.4
+ },
+ {
+   "name": "neuquenosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Argentina",
+   "type": "sauropod",
+   "arrival": 71,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 10
+ },
+ {
+   "name": "nigersaurus",
+   "diet": "herbivorous",
+   "lived_in": "Tunisia",
+   "type": "sauropod",
+   "arrival": 121,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 15
+ },
+ {
+   "name": "nipponosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Russia",
+   "type": "euornithopod",
+   "arrival": 89,
+   "extinction": 84,
+   "era": "Late Cretaceous",
+   "length": 4
+ },
+ {
+   "name": "noasaurus",
+   "diet": "carnivorous",
+   "lived_in": "Argentina",
+   "type": "small theropod",
+   "arrival": 84,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 1
+ },
+ {
+   "name": "nodosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "armoured dinosaur",
+   "arrival": 110,
+   "extinction": 100,
+   "era": "Early Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "nomingia",
+   "diet": "omnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 72,
+   "extinction": 68,
+   "era": "Late Cretaceous",
+   "length": 1.6
+ },
+ {
+   "name": "nothronychus",
+   "diet": "omnivorous",
+   "lived_in": "USA",
+   "type": "large theropod",
+   "arrival": 94,
+   "extinction": 89,
+   "era": "Late Cretaceous",
+   "length": 5.3
+ },
+ {
+   "name": "nqwebasaurus",
+   "diet": "carnivorous",
+   "lived_in": "South Africa",
+   "type": "small theropod",
+   "arrival": 159,
+   "extinction": 132,
+   "era": "Mid Jurassic",
+   "length": 1
+ },
+ {
+   "name": "omeisaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "sauropod",
+   "arrival": 169,
+   "extinction": 159,
+   "era": "Mid Jurassic",
+   "length": 20
+ },
+ {
+   "name": "opisthocoelicaudia",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "sauropod",
+   "arrival": 72,
+   "extinction": 68,
+   "era": "Late Cretaceous",
+   "length": 12
+ },
+ {
+   "name": "ornitholestes",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "small theropod",
+   "arrival": 150,
+   "extinction": 144,
+   "era": "Late Jurassic",
+   "length": 2
+ },
+ {
+   "name": "ornithomimus",
+   "diet": "omnivorous",
+   "lived_in": "USA",
+   "type": "large theropod",
+   "arrival": 74,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 4
+ },
+ {
+   "name": "orodromeus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 74,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "oryctodromeus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 99,
+   "extinction": 94,
+   "era": "Late Cretaceous",
+   "length": 2.1
+ },
+ {
+   "name": "othnielia",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 154,
+   "extinction": 142,
+   "era": "Late Jurassic",
+   "length": 1.4
+ },
+ {
+   "name": "ouranosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Niger",
+   "type": "euornithopod",
+   "arrival": 115,
+   "extinction": 100,
+   "era": "Early Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "oviraptor",
+   "diet": "omnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 85,
+   "extinction": 75,
+   "era": "Late Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "pachycephalosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 76,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 8
+ },
+ {
+   "name": "pachyrhinosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Canada",
+   "type": "ceratopsian",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "panoplosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "armoured dinosaur",
+   "arrival": 79,
+   "extinction": 75,
+   "era": "Late Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "pantydraco",
+   "diet": "herbivorous",
+   "lived_in": "Wales",
+   "type": "euornithopod",
+   "arrival": null,
+   "extinction": null,
+   "era": "Early Jurassic",
+   "length": 3
+ },
+ {
+   "name": "paralititan",
+   "diet": "herbivorous",
+   "lived_in": "Egypt",
+   "type": "sauropod",
+   "arrival": 99,
+   "extinction": 94,
+   "era": "Late Cretaceous",
+   "length": 28
+ },
+ {
+   "name": "parasaurolophus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 11
+ },
+ {
+   "name": "parksosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Canada",
+   "type": "euornithopod",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 3
+ },
+ {
+   "name": "patagosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Argentina",
+   "type": "sauropod",
+   "arrival": 164,
+   "extinction": 159,
+   "era": "Mid Jurassic",
+   "length": 18
+ },
+ {
+   "name": "pelicanimimus",
+   "diet": "carnivorous",
+   "lived_in": "Spain",
+   "type": "small theropod",
+   "arrival": 127,
+   "extinction": 121,
+   "era": "Early Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "pelorosaurus",
+   "diet": "herbivorous",
+   "lived_in": "United Kingdom",
+   "type": "sauropod",
+   "arrival": 125,
+   "extinction": 125,
+   "era": "Early Cretaceous",
+   "length": 25
+ },
+ {
+   "name": "pentaceratops",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "ceratopsian",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 6.8
+ },
+ {
+   "name": "piatnitzkysaurus",
+   "diet": "carnivorous",
+   "lived_in": "Argentina",
+   "type": "large theropod",
+   "arrival": 164,
+   "extinction": 159,
+   "era": "Late Jurassic",
+   "length": 4.2
+ },
+ {
+   "name": "pinacosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "armoured dinosaur",
+   "arrival": 81,
+   "extinction": 75,
+   "era": "Late Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "plateosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Switzerland",
+   "type": "sauropod",
+   "arrival": 210,
+   "extinction": 210,
+   "era": "Late Triassic",
+   "length": 7
+ },
+ {
+   "name": "podokesaurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "small theropod",
+   "arrival": 195,
+   "extinction": 180,
+   "era": "Mid Jurassic",
+   "length": 0.9
+ },
+ {
+   "name": "poekilopleuron",
+   "diet": "carnivorous",
+   "lived_in": "France",
+   "type": "large theropod",
+   "arrival": 169,
+   "extinction": 164,
+   "era": "Mid Jurassic",
+   "length": 9
+ },
+ {
+   "name": "polacanthus",
+   "diet": "herbivorous",
+   "lived_in": "United Kingdom",
+   "type": "armoured dinosaur",
+   "arrival": 125,
+   "extinction": 125,
+   "era": "Early Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "prenocephale",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "euornithopod",
+   "arrival": 80,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 2.4
+ },
+ {
+   "name": "probactrosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "euornithopod",
+   "arrival": 121,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "proceratosaurus",
+   "diet": "carnivorous",
+   "lived_in": "United Kingdom",
+   "type": "small theropod",
+   "arrival": 169,
+   "extinction": 164,
+   "era": "Mid Jurassic",
+   "length": 4.1
+ },
+ {
+   "name": "procompsognathus",
+   "diet": "carnivorous",
+   "lived_in": "Germany",
+   "type": "small theropod",
+   "arrival": 221,
+   "extinction": 210,
+   "era": "Late Triassic",
+   "length": 1
+ },
+ {
+   "name": "prosaurolophus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 77,
+   "extinction": 75,
+   "era": "Late Cretaceous",
+   "length": 7.6
+ },
+ {
+   "name": "protarchaeopteryx",
+   "diet": "carnivorous",
+   "lived_in": "China",
+   "type": "small theropod",
+   "arrival": 122,
+   "extinction": 120,
+   "era": "Early Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "protoceratops",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "ceratopsian",
+   "arrival": 74,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 1.8
+ },
+ {
+   "name": "protohadros",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 99,
+   "extinction": 94,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "psittacosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Russia",
+   "type": "ceratopsian",
+   "arrival": 120,
+   "extinction": 100,
+   "era": "Early Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "quaesitosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "sauropod",
+   "arrival": 86,
+   "extinction": 84,
+   "era": "Late Cretaceous",
+   "length": 23
+ },
+ {
+   "name": "rebbachisaurus",
+   "diet": "herbivorous",
+   "lived_in": "Morocco",
+   "type": "sauropod",
+   "arrival": 112,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 20
+ },
+ {
+   "name": "rhabdodon",
+   "diet": "herbivorous",
+   "lived_in": "Spain",
+   "type": "euornithopod",
+   "arrival": 76,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 4
+ },
+ {
+   "name": "rhoetosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Australia",
+   "type": "sauropod",
+   "arrival": 177,
+   "extinction": 169,
+   "era": "Mid Jurassic",
+   "length": 15
+ },
+ {
+   "name": "rinchenia",
+   "diet": "omnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 72,
+   "extinction": 68,
+   "era": "Late Cretaceous",
+   "length": 2.5
+ },
+ {
+   "name": "riojasaurus",
+   "diet": "herbivorous/omnivorous",
+   "lived_in": "Argentina",
+   "type": "sauropod",
+   "arrival": 221,
+   "extinction": 210,
+   "era": "Late Triassic",
+   "length": 5.15
+ },
+ {
+   "name": "rugops",
+   "diet": "carnivorous",
+   "lived_in": "Niger",
+   "type": "large theropod",
+   "arrival": 95,
+   "extinction": 95,
+   "era": "Late Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "saichania",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "armoured dinosaur",
+   "arrival": 80,
+   "extinction": 80,
+   "era": "Late Cretaceous",
+   "length": 6.6
+ },
+ {
+   "name": "saltasaurus",
+   "diet": "herbivorous",
+   "lived_in": "Argentina",
+   "type": "sauropod",
+   "arrival": 70,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 12
+ },
+ {
+   "name": "saltopus",
+   "diet": "carnivorous",
+   "lived_in": "United Kingdom",
+   "type": "small theropod",
+   "arrival": 221,
+   "extinction": 210,
+   "era": "Late Triassic",
+   "length": 1
+ },
+ {
+   "name": "sarcosaurus",
+   "diet": "carnivorous",
+   "lived_in": "United Kingdom",
+   "type": "small theropod",
+   "arrival": 202,
+   "extinction": 195,
+   "era": "Early Jurassic",
+   "length": 3
+ },
+ {
+   "name": "saurolophus",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "euornithopod",
+   "arrival": 74,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "sauropelta",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "armoured dinosaur",
+   "arrival": 121,
+   "extinction": 94,
+   "era": "Early Cretaceous",
+   "length": 6.5
+ },
+ {
+   "name": "saurophaganax",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "large theropod",
+   "arrival": 154,
+   "extinction": 142,
+   "era": "Late Jurassic",
+   "length": 12
+ },
+ {
+   "name": "saurornithoides",
+   "diet": "carnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 85,
+   "extinction": 80,
+   "era": "Late Cretaceous",
+   "length": 3
+ },
+ {
+   "name": "scelidosaurus",
+   "diet": "herbivorous",
+   "lived_in": "United Kingdom",
+   "type": "armoured dinosaur",
+   "arrival": 208,
+   "extinction": 194,
+   "era": "Early Jurassic",
+   "length": 4
+ },
+ {
+   "name": "scutellosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "armoured dinosaur",
+   "arrival": 205,
+   "extinction": 202,
+   "era": "Early Jurassic",
+   "length": 1.2
+ },
+ {
+   "name": "secernosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Argentina",
+   "type": "euornithopod",
+   "arrival": 71,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 3
+ },
+ {
+   "name": "segisaurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "small theropod",
+   "arrival": 195,
+   "extinction": 180,
+   "era": "Mid Jurassic",
+   "length": 1.5
+ },
+ {
+   "name": "segnosaurus",
+   "diet": "carnivorous",
+   "lived_in": "Mongolia",
+   "type": "large theropod",
+   "arrival": 97,
+   "extinction": 88,
+   "era": "Late Cretaceous",
+   "length": 4
+ },
+ {
+   "name": "shamosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "armoured dinosaur",
+   "arrival": 121,
+   "extinction": 99,
+   "era": "Early Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "shanag",
+   "diet": "carnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 126,
+   "extinction": 142,
+   "era": "Early Cretaceous",
+   "length": 0.45
+ },
+ {
+   "name": "shantungosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "euornithopod",
+   "arrival": 78,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 15
+ },
+ {
+   "name": "shunosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "sauropod",
+   "arrival": 170,
+   "extinction": 160,
+   "era": "Mid Jurassic",
+   "length": 10
+ },
+ {
+   "name": "shuvuuia",
+   "diet": "omnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 75,
+   "extinction": 81,
+   "era": "Late Cretaceous",
+   "length": 0.6
+ },
+ {
+   "name": "silvisaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "armoured dinosaur",
+   "arrival": 121,
+   "extinction": 112,
+   "era": "Early Cretaceous",
+   "length": 4
+ },
+ {
+   "name": "sinocalliopteryx",
+   "diet": "carnivorous",
+   "lived_in": "China",
+   "type": "small theropod",
+   "arrival": 125,
+   "extinction": 125,
+   "era": "Early Cretaceous",
+   "length": 2.37
+ },
+ {
+   "name": "sinornithosaurus",
+   "diet": "carnivorous",
+   "lived_in": "China",
+   "type": "small theropod",
+   "arrival": 122,
+   "extinction": 120,
+   "era": "Early Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "sinosauropteryx",
+   "diet": "carnivorous",
+   "lived_in": "China",
+   "type": "small theropod",
+   "arrival": 122,
+   "extinction": 120,
+   "era": "Early Cretaceous",
+   "length": 1
+ },
+ {
+   "name": "sinovenator",
+   "diet": "carnivorous",
+   "lived_in": "China",
+   "type": "small theropod",
+   "arrival": 127,
+   "extinction": 121,
+   "era": "Early Cretaceous",
+   "length": 1
+ },
+ {
+   "name": "sinraptor",
+   "diet": "carnivorous",
+   "lived_in": "China",
+   "type": "large theropod",
+   "arrival": 169,
+   "extinction": 142,
+   "era": "Mid Jurassic",
+   "length": 7.6
+ },
+ {
+   "name": "sonidosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "sauropod",
+   "arrival": 89,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "spinosaurus",
+   "diet": "carnivorous",
+   "lived_in": "Morocco",
+   "type": "large theropod",
+   "arrival": 95,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 18
+ },
+ {
+   "name": "staurikosaurus",
+   "diet": "carnivorous",
+   "lived_in": "Brazil",
+   "type": "large theropod",
+   "arrival": 227,
+   "extinction": 221,
+   "era": "Late Triassic",
+   "length": 2
+ },
+ {
+   "name": "stegoceras",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 2.4
+ },
+ {
+   "name": "stegosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "armoured dinosaur",
+   "arrival": 155,
+   "extinction": 145,
+   "era": "Late Jurassic",
+   "length": 9
+ },
+ {
+   "name": "stenopelix",
+   "diet": "herbivorous",
+   "lived_in": "Germany",
+   "type": "ceratopsian",
+   "arrival": 127,
+   "extinction": 121,
+   "era": "Early Cretaceous",
+   "length": 1.5
+ },
+ {
+   "name": "struthiomimus",
+   "diet": "omnivorous",
+   "lived_in": "Canada",
+   "type": "small theropod",
+   "arrival": 76,
+   "extinction": 74,
+   "era": "Late Cretaceous",
+   "length": 4
+ },
+ {
+   "name": "struthiosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Spain",
+   "type": "armoured dinosaur",
+   "arrival": 83,
+   "extinction": 75,
+   "era": "Late Cretaceous",
+   "length": 2.5
+ },
+ {
+   "name": "styracosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "ceratopsian",
+   "arrival": 76,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 5.5
+ },
+ {
+   "name": "suchomimus",
+   "diet": "carnivorous",
+   "lived_in": "Niger",
+   "type": "large theropod",
+   "arrival": 121,
+   "extinction": 112,
+   "era": "Early Cretaceous",
+   "length": 11
+ },
+ {
+   "name": "supersaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "sauropod",
+   "arrival": 154,
+   "extinction": 142,
+   "era": "Early Cretaceous",
+   "length": 35
+ },
+ {
+   "name": "talarurus",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "armoured dinosaur",
+   "arrival": 99,
+   "extinction": 89,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "tanius",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "euornithopod",
+   "arrival": 89,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "tarbosaurus",
+   "diet": "carnivorous",
+   "lived_in": "Mongolia",
+   "type": "large theropod",
+   "arrival": 74,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 10
+ },
+ {
+   "name": "tarchia",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "armoured dinosaur",
+   "arrival": 75,
+   "extinction": 68,
+   "era": "Late Cretaceous",
+   "length": 8.5
+ },
+ {
+   "name": "telmatosaurus",
+   "diet": "herbivorous",
+   "lived_in": "Spain",
+   "type": "euornithopod",
+   "arrival": 84,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 5
+ },
+ {
+   "name": "tenontosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 120,
+   "extinction": 110,
+   "era": "Early Cretaceous",
+   "length": 7
+ },
+ {
+   "name": "thecodontosaurus",
+   "diet": "omnivorous",
+   "lived_in": "United Kingdom",
+   "type": "sauropod",
+   "arrival": 227,
+   "extinction": 205,
+   "era": "Late Triassic",
+   "length": 2.5
+ },
+ {
+   "name": "therizinosaurus",
+   "diet": "unknown",
+   "lived_in": "Mongolia",
+   "type": "large theropod",
+   "arrival": 85,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 9.5
+ },
+ {
+   "name": "thescelosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 76,
+   "extinction": 67,
+   "era": "Late Cretaceous",
+   "length": 3.5
+ },
+ {
+   "name": "torosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "ceratopsian",
+   "arrival": 70,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 7.5
+ },
+ {
+   "name": "torvosaurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "large theropod",
+   "arrival": 155,
+   "extinction": 144,
+   "era": "Late Jurassic",
+   "length": 10
+ },
+ {
+   "name": "triceratops",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "ceratopsian",
+   "arrival": 68,
+   "extinction": 66,
+   "era": "Late Cretaceous",
+   "length": 9
+ },
+ {
+   "name": "troodon",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "small theropod",
+   "arrival": 74,
+   "extinction": 65,
+   "era": "Late Cretaceous",
+   "length": 2
+ },
+ {
+   "name": "tsagantegia",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "armoured dinosaur",
+   "arrival": 99,
+   "extinction": 84,
+   "era": "Late Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "tsintaosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "euornithopod",
+   "arrival": 84,
+   "extinction": 71,
+   "era": "Late Cretaceous",
+   "length": 12
+ },
+ {
+   "name": "tuojiangosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "armoured dinosaur",
+   "arrival": 157,
+   "extinction": 154,
+   "era": "Late Jurassic",
+   "length": 7
+ },
+ {
+   "name": "tylocephale",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "euornithopod",
+   "arrival": 75,
+   "extinction": 72,
+   "era": "Late Cretaceous",
+   "length": 1.4
+ },
+ {
+   "name": "tyrannosaurus",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "large theropod",
+   "arrival": 68,
+   "extinction": 66,
+   "era": "Late Cretaceous",
+   "length": 12
+ },
+ {
+   "name": "udanoceratops",
+   "diet": "herbivorous",
+   "lived_in": "Mongolia",
+   "type": "ceratopsian",
+   "arrival": 81,
+   "extinction": 75,
+   "era": "Late Cretaceous",
+   "length": 4
+ },
+ {
+   "name": "unenlagia",
+   "diet": "carnivorous",
+   "lived_in": "Argentina",
+   "type": "small theropod",
+   "arrival": 94,
+   "extinction": 86,
+   "era": "Late Cretaceous",
+   "length": 2.4
+ },
+ {
+   "name": "urbacodon",
+   "diet": "carnivorous",
+   "lived_in": "Uzbekistan",
+   "type": "small theropod",
+   "arrival": 95,
+   "extinction": 95,
+   "era": "Late Cretaceous",
+   "length": 1
+ },
+ {
+   "name": "utahraptor",
+   "diet": "carnivorous",
+   "lived_in": "USA",
+   "type": "large theropod",
+   "arrival": 112,
+   "extinction": 100,
+   "era": "Early Cretaceous",
+   "length": 6
+ },
+ {
+   "name": "valdosaurus",
+   "diet": "herbivorous",
+   "lived_in": "United Kingdom",
+   "type": "euornithopod",
+   "arrival": 142,
+   "extinction": 121,
+   "era": "Early Cretaceous",
+   "length": 3
+ },
+ {
+   "name": "velociraptor",
+   "diet": "carnivorous",
+   "lived_in": "Mongolia",
+   "type": "small theropod",
+   "arrival": 74,
+   "extinction": 70,
+   "era": "Late Cretaceous",
+   "length": 1.8
+ },
+ {
+   "name": "vulcanodon",
+   "diet": "herbivorous",
+   "lived_in": "Zimbabwe",
+   "type": "sauropod",
+   "arrival": 205,
+   "extinction": 202,
+   "era": "Early Jurassic",
+   "length": 6.5
+ },
+ {
+   "name": "yandusaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "euornithopod",
+   "arrival": 169,
+   "extinction": 159,
+   "era": "Mid Jurassic",
+   "length": 3
+ },
+ {
+   "name": "yangchuanosaurus",
+   "diet": "carnivorous",
+   "lived_in": "China",
+   "type": "large theropod",
+   "arrival": 160,
+   "extinction": 144,
+   "era": "Late Jurassic",
+   "length": 10
+ },
+ {
+   "name": "yimenosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "sauropod",
+   "arrival": 195,
+   "extinction": 190,
+   "era": "Early Jurassic",
+   "length": 9
+ },
+ {
+   "name": "yingshanosaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "armoured dinosaur",
+   "arrival": 159,
+   "extinction": 142,
+   "era": "Late Jurassic",
+   "length": 4.5
+ },
+ {
+   "name": "yinlong",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "ceratopsian",
+   "arrival": 159,
+   "extinction": 154,
+   "era": "Mid Jurassic",
+   "length": 1.2
+ },
+ {
+   "name": "yuanmousaurus",
+   "diet": "herbivorous",
+   "lived_in": "China",
+   "type": "sauropod",
+   "arrival": 180,
+   "extinction": 159,
+   "era": "Mid Jurassic",
+   "length": 17
+ },
+ {
+   "name": "yunnanosaurus",
+   "diet": "omnivorous",
+   "lived_in": "China",
+   "type": "sauropod",
+   "arrival": 205,
+   "extinction": 190,
+   "era": "Early Jurassic",
+   "length": 7
+ },
+ {
+   "name": "zalmoxes",
+   "diet": "herbivorous",
+   "lived_in": "Romania",
+   "type": "euornithopod",
+   "arrival": 69,
+   "extinction": 69,
+   "era": "Late Cretaceous",
+   "length": 3
+ },
+ {
+   "name": "zephyrosaurus",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "euornithopod",
+   "arrival": 120,
+   "extinction": 110,
+   "era": "Early Cretaceous",
+   "length": 1.8
+ },
+ {
+   "name": "zuniceratops",
+   "diet": "herbivorous",
+   "lived_in": "USA",
+   "type": "ceratopsian",
+   "arrival": 94,
+   "extinction": 89,
+   "era": "Late Cretaceous",
+   "length": 3.25
+ }
+]
