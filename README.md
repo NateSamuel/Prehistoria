@@ -132,3 +132,24 @@ Video playthrough
 <p align="left">
   For the human evolution exhibit, I implemented data from a dataset to create sliders which showed some information about the different stages of human evolution.
 </p>
+
+## UX / UI
+
+Prototype 1 Using Figma:
+https://www.figma.com/proto/5hbuB4tmIICqaNmLoTF5GR/Final-Project?node-id=0-1&t=Pc8ERDtg4WgzpQRv-1
+
+Prototype 1 Survey: 
+https://docs.google.com/spreadsheets/d/1tqxEYghkRic02IkemN0ExhJ5nuz3-KB_CH_h7yYNh5M/edit?usp=sharing
+
+Prototype 2 Using Figma:
+https://www.figma.com/proto/5hbuB4tmIICqaNmLoTF5GR/Final-Project?node-id=1-2&t=Pc8ERDtg4WgzpQRv-1
+
+Prototype 2 Survey: 
+https://docs.google.com/spreadsheets/d/12pgTVbodEO0aqI__47aawVxpkr5wwWtzw87__HtJcd8/edit?usp=sharing
+
+Final Prototype Using Figma:
+https://www.figma.com/proto/5hbuB4tmIICqaNmLoTF5GR/Final-Project?node-id=1-3&t=J7anSMQjKVwlnaB3-1
+
+Final Prototype Survey: 
+https://docs.google.com/spreadsheets/d/1M6AMOFg8EEEcz9Ij86Aqwvg6Gsn-MwAMWRzgVbk-R0s/edit?usp=sharing
+
